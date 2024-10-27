@@ -1,4 +1,4 @@
-# banana-cursor
+# banana-cursor (Catppuccin inspired)
 
 A cursor was requested by [u/JMT37](https://www.reddit.com/user/JMT37/). It is the most unique cursor ever crafted in Linux history.
 
@@ -52,7 +52,7 @@ A cursor was requested by [u/JMT37](https://www.reddit.com/user/JMT37/). It is t
 |   96 |              64 |     76.8 → 77 |                96 |
 |  128 |     85.333 → 86 |   102.4 → 103 |               128 |
 
-## Colors
+## Colors (Default)
 
 ### Banana
 
@@ -73,6 +73,18 @@ A cursor was requested by [u/JMT37](https://www.reddit.com/user/JMT37/). It is t
 
 -   Base Color - `#E16C6C` (Red)
 -   Outline Color - `#1B0707` (Dark Red)
+
+## Catppuccin Colors
+
+### Banana-Catppuccin-Latte
+
+-   Base Color - `#DF8E1D` (Yellow)
+-   Outline Color - `#BCC0CC` (Surface 1)
+
+### Banana-Catppuccin-Mocha
+
+-   Base Color - `#F9E2AF` (Yellow)
+-   Outline Color - `#45475A` (Surface 1)
 
 ## How to get it
 
