@@ -35,12 +35,60 @@
       { "match": "#6D3C1B", "replace": "#45475a" }
     ]
   },
+  "Mocha-Rosewater": {
+    "dir": "svg",
+    "out": "bitmaps/Mocha-Rosewater",
+    "colors": [
+      { "match": "#FCD900", "replace": "#f5e0dc" },
+      { "match": "#6D3C1B", "replace": "#45475a" }
+    ]
+  },
   "Banana-Catppuccin-Latte": {
     "dir": "svg",
     "out": "bitmaps/Banana-Catppuccin-Latte",
     "colors": [
       { "match": "#FCD900", "replace": "#df8e1d" },
       { "match": "#6D3C1B", "replace": "#bcc0cc" }
+    ]
+  },
+  "Latte-Rosewater": {
+    "dir": "svg",
+    "out": "bitmaps/Latte-Rosewater",
+    "colors": [
+      { "match": "#FCD900", "replace": "#dc8a78" },
+      { "match": "#6D3C1B", "replace": "#bcc0cc" }
+    ]
+  },
+  "Banana-Catppuccin-Frappe": {
+    "dir": "svg",
+    "out": "bitmaps/Banana-Catppuccin-Frappe",
+    "colors": [
+      { "match": "#FCD900", "replace": "#e5c890" },
+      { "match": "#6D3C1B", "replace": "#51576d" }
+    ]
+  },
+  "Frappe-Rosewater": {
+    "dir": "svg",
+    "out": "bitmaps/Frappe-Rosewater",
+    "colors": [
+      { "match": "#FCD900", "replace": "#f2d5cf" },
+      { "match": "#6D3C1B", "replace": "#51576d" }
+    ]
+  },
+  "Banana-Catppuccin-Macchiato": {
+    "dir": "svg",
+    "out": "bitmaps/Banana-Catppuccin-Macchiato",
+    "colors": [
+      { "match": "#FCD900", "replace": "#eed49f" },
+      { "match": "#6D3C1B", "replace": "#494d64" }
+    ]
+  },
+  "Macchiato-Rosewater": {
+    "dir": "svg",
+    "out": "bitmaps/Macchiato-Rosewater",
+    "colors": [
+      { "match": "#FCD900", "replace": "#f4dbd6" },
+      { "match": "#6D3C1B", "replace": "#494d64" }
     ]
   }
 }

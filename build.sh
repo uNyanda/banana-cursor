@@ -35,7 +35,13 @@ names["Banana-Green"]=$(with_version "The Green Banana")
 names["Banana-Blue"]=$(with_version "The Blue Banana")
 names["Banana-Red"]=$(with_version "The Red Banana")
 names["Banana-Catppuccin-Mocha"]=$(with_version "The Catppuccin Mocha Banana")
+names["Mocha-Rosewater"]=$(with_version "The Catppuccin Mocha-Rosewater Banana")
 names["Banana-Catppuccin-Latte"]=$(with_version "The Catppuccin Latte Banana")
+names["Latte-Rosewater"]=$(with_version "The Catppuccin Latte-Rosewater Banana")
+names["Banana-Catppuccin-Frappe"]=$(with_version "The Catppuccin Frappe Banana")
+names["Frappe-Rosewater"]=$(with_version "The Catppuccin Frappe-Rosewater Banana")
+names["Banana-Catppuccin-Macchiato"]=$(with_version "The Catppuccin Macchiato Banana")
+names["Macchiato-Rosewater"]=$(with_version "The Catppuccin Macchiato-Rosewater Banana")
 
 # Cleanup old builds
 rm -rf themes bin
